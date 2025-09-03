@@ -226,7 +226,7 @@ export default function LeandreGenerator() {
       start: [2025, 9, 13, 14, 0] as [number, number, number, number, number],
       duration: { hours: 3 },
       title: 'Hangout with Someone Special 💖',
-      description: 'Coffee at That Cute Café → walk in the park → mini-golf',
+      description: ' I was thinking homemade cocktails made with love',
       location: 'That Cute Café (and beyond!)',
       status: 'CONFIRMED' as const,
       busyStatus: 'BUSY' as const,
@@ -370,7 +370,7 @@ export default function LeandreGenerator() {
                   Wanna hang out with me on Saturday, September 13, 2025?
                 </p>
                 <p>
-                  I was thinking coffee at That Cute Café → walk in the park → mini-golf around 2 PM.
+                  I was thinking homemade cocktails made with love.
                 </p>
                 <p>If you're in, hit the button — confetti guaranteed.</p>
               </div>
