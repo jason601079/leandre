@@ -122,8 +122,6 @@ All colors MUST be HSL. Pastel peach to lavender gradient theme.
   }
 }
 
-}
-
 /* Custom component styles and animations */
 @layer components {
   .gradient-bg {
